@@ -1,0 +1,38 @@
+{
+    "Token": "xxxxx",
+    "Spotify": {
+      "largeImage": "spotify:ab67616d000048518b3db25a5d03beda6bb621c4",
+      "smallImage": "spotify:ab67616d000048518b3db25a5d03beda6bb621c4",
+      "largeText": "She is Feelin' Good",
+      "state": "Yuinishio",
+      "details": "Drink, Pray, Love!",
+      "songId": "7c15sMe2TvDDEvdrLMjIiP",
+      "albumId": "77jwLuWDCIVkws8IyXSvnT",
+      "artistIds": ["7zbYqEsExgXmsCHaOhXlnG", "2nKGmC5Mc13ct02xAY8ccS"],
+      "songlengthsec": 220
+    },
+    "RichPresence": {
+      "applicationId": "367827983903490050",
+      "Type": "PLAYING",
+      "url": "https://www.youtube.com/watch?v=5icFcPkVzMg",
+      "state": "Arcade Game",
+      "name": "osu!",
+      "details": "MariannE - Yooh",
+      "party": {
+        "max": 8,
+        "current": 1
+      },
+      "largeImage": "373370493127884800",
+      "largeText": "Idle",
+      "smallImage": "373370493127884800",
+      "smallText": "click the circles",
+      "buttonUrl": "https://osu.ppy.sh/beatmapsets/1391659#osu/2873429"
+    },
+
+
+    "Enabled": {
+        "Spotify": true,
+        "RichPresence": false
+    }
+  }
+  
